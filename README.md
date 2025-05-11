@@ -5,7 +5,7 @@ This is a 2D platformer game, inspired by the movie. The player will control a c
 
 ## 🚀 Tech Stack
 
-- 🧩 **Programming Language**: C#
+- 🧩 **Programming Language**: C# + ASP.NET
 - 🎨 **Design**: Unity
 ---
 
